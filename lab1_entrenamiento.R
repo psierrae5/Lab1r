@@ -77,8 +77,8 @@ resumen_energia <- list(
   dataframe_ordenado = df_ordenado,
   total_consumo = total_consumo,
   total_costo = total_costo,
-  media_consumo = media_consumo,
   top_3_costos = top_3_costos
 )
 
 resumen_energia
+
